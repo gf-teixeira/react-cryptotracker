@@ -1,12 +1,21 @@
+.search-container{
+    margin-bottom: 64px;
+    justify-content: center;
+    align-items: center;
+}
 .search-text{
+    margin-bottom: 32px;
+    text-align: center;
     color: #bd93f9;
 }
 .coin-input{
+
+    background-color: #44475a;
     border: none;
     height: 30px;
     width: 300px;
     padding-left: 10px;
-    color: #6272a4;
+    color: #f8f8f2;
     border-radius: 5px;
 }
 input:focus {

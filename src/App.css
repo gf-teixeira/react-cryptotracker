@@ -1,5 +1,16 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 .App {
+
+  display: flex;
+  flex-direction: column;
   text-align: center;
+  align-items: center;
+  margin-top: 64px;
+  color: #f8f8f2;
 }
 body{
   background-color: #282a36;
