@@ -16,3 +16,5 @@ Install dependencies
 Run
 
     npm start
+
+Theme: https://draculatheme.com/
